@@ -3,7 +3,7 @@ const util = require('../../utils/util.js')
 
 Page({
   data: {
-    logs: [11111]
+    logs: [11111,,,]
   },
   onLoad: function () {
     this.setData({
