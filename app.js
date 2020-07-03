@@ -3,10 +3,7 @@ App({
   
   onLaunch: function () {
 
-    console.log(1)
-    console.error(156)
-    console.log(1)
-    console.log(1)
+   var a;
 
 
     // 展示本地存储能力
