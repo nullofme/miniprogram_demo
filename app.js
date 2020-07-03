@@ -3,7 +3,7 @@ App({
   
   onLaunch: function () {
 
-    console.log(1)
+    console.error(1)
     console.log(1)
     console.log(1)
     console.log(1)
