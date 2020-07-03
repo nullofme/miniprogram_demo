@@ -3,7 +3,7 @@ const util = require('../../utils/util.js')
 
 Page({
   data: {
-
+a:456
   },
   onLoad: function () {
     this.setData({
