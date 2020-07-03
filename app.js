@@ -3,7 +3,8 @@ App({
   
   onLaunch: function () {
 
-   var a;
+   var aa=1;
+   var a;;
 
 
     // 展示本地存储能力
